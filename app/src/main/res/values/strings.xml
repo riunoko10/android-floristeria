@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">floristeria</string>
+    <string name="title_activity_main">floristeria</string>
+    <string name="package_name">com.floristeria.dev</string>
+    <string name="custom_url_scheme">com.floristeria.dev</string>
+</resources>

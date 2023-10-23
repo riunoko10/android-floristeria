@@ -1,0 +1,8 @@
+{
+	"appId": "com.floristeria.dev",
+	"appName": "floristeria",
+	"webDir": "dist/floristeria",
+	"server": {
+		"androidScheme": "https"
+	}
+}
